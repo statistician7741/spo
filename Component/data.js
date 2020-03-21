@@ -1,0 +1,33 @@
+export default [
+    {
+        _id: '1',
+        date: new Date(),
+        nama_kec: 'Latambaga',
+        nama_desa: 'Sea',
+        nama_sls: 'Lingkungan II',
+        jml_keluarga_lengkap_respon: 200,
+        jml_keluarga_lengkap_clean: 32,
+        jml_penduduk_respon: 69,
+        jml_penduduk_clean: 45,
+    },{
+        _id: '2',
+        date: new Date(),
+        nama_kec: 'Kolaka',
+        nama_desa: 'Sea',
+        nama_sls: 'Lingkungan II',
+        jml_keluarga_lengkap_respon: 100,
+        jml_keluarga_lengkap_clean: 52,
+        jml_penduduk_respon: 69,
+        jml_penduduk_clean: 45,
+    },{
+        _id: '3',
+        date: new Date(),
+        nama_kec: 'Wundulako',
+        nama_desa: 'Sea',
+        nama_sls: 'Lingkungan II',
+        jml_keluarga_lengkap_respon: 100,
+        jml_keluarga_lengkap_clean: 100,
+        jml_penduduk_respon: 69,
+        jml_penduduk_clean: 45,
+    },
+]
